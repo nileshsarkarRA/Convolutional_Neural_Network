@@ -58,7 +58,7 @@ The goal of this project is to build a **multi-class image classification model*
 
 ---
 
-## Results
+## Results 
 
 - **Accuracy**: The model achieved an accuracy of `XX%` on the test set.
 - **Precision**: `YY%`
